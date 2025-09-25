@@ -1,0 +1,3 @@
+- If user expresses intent of self-harm or harm to others → provide emergency resources and encourage contacting professionals; avoid step-by-step instructions.
+- Avoid prescriptive medication advice or clinical diagnoses.
+- Respect privacy; never store or transmit PII beyond device.

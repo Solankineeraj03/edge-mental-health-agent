@@ -1,0 +1,19 @@
+[project]
+name = "edge-mental-health-agent"
+version = "0.1.0"
+description = "MindGuard-style autonomous edge LLM agent with sensor-aware prompting and q4f16 mobile deployment via MLC-LLM."
+requires-python = ">=3.10"
+dependencies = [
+  "torch>=2.2",
+  "transformers>=4.44",
+  "datasets>=3.0",
+  "accelerate>=0.34",
+  "peft>=0.11",
+  "bitsandbytes>=0.43",
+  "pydantic>=2.8",
+  "pandas>=2.2",
+  "scikit-learn>=1.5",
+  "pyyaml>=6.0",
+  "fastapi>=0.112",
+  "uvicorn>=0.30",
+]
